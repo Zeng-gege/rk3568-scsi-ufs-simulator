@@ -1,0 +1,20 @@
+#bianyichanchu
+*.o
+scsi_sim
+*.elf
+*.bin
+
+#bianjiqi linshi wenjian
+*~
+*.swp
+*.swo
+
+#python_huancun
+
+__pycache__/
+*.pyc
+
+#jingxiang_or_rizhi
+*.img
+*.log
+
